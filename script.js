@@ -1,6 +1,8 @@
-const jedi = [
-    'luke'
-]
+const jedi = []
+
+
+jedi[0] = 'luke'
+console.log(jedi);
 
 const arrayNum1 = jedi.push('Obi-Wan Kenobi')
 
